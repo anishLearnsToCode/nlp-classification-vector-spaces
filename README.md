@@ -24,7 +24,10 @@ __~deeplearning.ai__
 - [Programming Assignment: Naive Bayes](week_2/naive-bayes.ipynb)
 
 ## Week 3
-- [Programming Assignment: Word Embeddings]()
+- [Lab: Linear Algebra In Python with Numpy](week_3/linear-algebra.ipynb)
+- [Lab: Manipulating Word Embeddings](week_3/manipulating-word-embeddings.ipynb)
+- [Lab: Another Explanation on PCA: Principal Component Analysis](week_3/pricipal-component-analysis.ipynb)
+- [Programming Assignment: Word Embeddings](week_3/word-embeddings.ipynb)
 
 ## Week 4
 - [Programming Assignment: Word Translation]()
