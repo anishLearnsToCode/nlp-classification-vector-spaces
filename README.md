@@ -30,6 +30,9 @@ __~deeplearning.ai__
 - [Programming Assignment: Word Embeddings](week_3/word-embeddings.ipynb)
 
 ## Week 4
+- [Lab: Rotation Matrices in R2](week_4/rotation-matrices-in-r2.ipynb)
+- [Lab: Vector Manipulation in Python](week_4/vector-manipulation-in-python.ipynb)
+- [Lab: Hash Tables](week_4/hash-functions-and-multiplanes.ipynb)
 - [Programming Assignment: Word Translation]()
 
 ## Certificate
