@@ -33,6 +33,7 @@ __~deeplearning.ai__
 - [Lab: Rotation Matrices in R2](week_4/rotation-matrices-in-r2.ipynb)
 - [Lab: Vector Manipulation in Python](week_4/vector-manipulation-in-python.ipynb)
 - [Lab: Hash Tables](week_4/hash-functions-and-multiplanes.ipynb)
-- [Programming Assignment: Word Translation]()
+- [Programming Assignment: Word Translation](week_4/word-translations.ipynb)
 
-## Certificate
+## [Certificate](http://coursera.org/verify/LGBF7J8S99RG)
+![certificate](assets/certificate.PNG)
