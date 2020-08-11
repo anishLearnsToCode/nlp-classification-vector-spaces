@@ -36,4 +36,4 @@ __~deeplearning.ai__
 - [Programming Assignment: Word Translation](week_4/word-translations.ipynb)
 
 ## [Certificate](http://coursera.org/verify/LGBF7J8S99RG)
-![certificate](assets/certificate.PNG)
+![certificate](assets/certificate.png)
