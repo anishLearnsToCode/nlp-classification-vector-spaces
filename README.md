@@ -1,8 +1,7 @@
 # Natural Language Processing with Classification and Vector Spaces @ Coursera
 __~deeplearning.ai__   
 
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 [![specialization](https://img.shields.io/badge/specialization-Natural%20Language%20Procesing-1f72ff.svg)](https://github.com/anishLearnsToCode/nlp-deeplearning-ai)
 [![platform](https://img.shields.io/badge/platform-Coursera-1f008f.svg)](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 
